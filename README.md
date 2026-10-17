@@ -115,8 +115,8 @@ Open settings.json and fill in these fields:
 }
 
 "server": {
-  "ip": "your.server.ip",
-  "port": 25565
+  "ip": "MAGICLEGENDS.aternos.me",
+  "port": 19132
 }
 
 "utils": {
